@@ -1,6 +1,6 @@
 # Real time React Crypto-Tracker
 
-Try it self https://charmheroku.github.io/crypto-tracker/btc-bitcoin
+Try it self https://charmheroku.github.io/crypto-tracker/
 
 ### Using:
 
